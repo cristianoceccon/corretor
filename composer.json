@@ -1,0 +1,7 @@
+{
+    "require": {
+        "pagseguro/pagseguro-php-sdk": "^6.0",
+        "gerencianet/gerencianet-sdk-php": "^2.4",
+        "mpdf/mpdf": "^8.0"
+    }
+}
